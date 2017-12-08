@@ -1,0 +1,1 @@
+Takes 3 parameters. rows columns and generations.
